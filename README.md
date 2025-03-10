@@ -1,5 +1,6 @@
 # GPTX
 
+```bash
 
 apt update && apt upgrade
 
@@ -22,3 +23,5 @@ chmod +x your dictionary where you are stored
 clear
 
 your chatgpt is ready now 
+
+```
